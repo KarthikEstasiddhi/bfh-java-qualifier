@@ -1,0 +1,5 @@
+app:
+  name: "Your Name"
+  regNo: "YOUR_REG_NO"
+  email: "your@email.com"
+  finalQuery: ""   # leave empty for now; we’ll paste the SQL in later
