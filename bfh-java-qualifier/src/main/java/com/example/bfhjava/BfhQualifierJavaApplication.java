@@ -1,4 +1,3 @@
-\
 package com.example.bfhjava;
 
 import org.springframework.boot.SpringApplication;
